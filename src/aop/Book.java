@@ -6,6 +6,8 @@ import org.springframework.stereotype.Component;
 @Component
 public class Book {
 
+    private int testGit = 1;
+
     @Value("\"Преступление и наказание\"")
     private String name;
 
