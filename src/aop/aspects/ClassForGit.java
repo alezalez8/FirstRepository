@@ -28,4 +28,10 @@ public class ClassForGit {
     public void setMyAge(int myAge) {
         this.myAge = myAge;
     }
+
+    public ClassForGit(String myName, String yourName, int myAge) {
+        this.myName = myName;
+        this.yourName = yourName;
+        this.myAge = myAge;
+    }
 }
