@@ -5,9 +5,7 @@ public class ClassForGit {
     private String yourName;
     private int myAge;
 
-    public String getMyName() {
-        return myName;
-    }
+
 
     public void setMyName(String myName) {
         this.myName = myName;
@@ -21,17 +19,13 @@ public class ClassForGit {
         this.yourName = yourName;
     }
 
-    public int getMyAge() {
-        return myAge;
-    }
 
-    public void setMyAge(int myAge) {
-        this.myAge = myAge;
-    }
+
 
     public ClassForGit(String myName, String yourName, int myAge) {
         this.myName = myName;
         this.yourName = yourName;
         this.myAge = myAge;
     }
+
 }
