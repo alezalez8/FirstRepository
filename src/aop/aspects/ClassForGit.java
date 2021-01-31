@@ -5,6 +5,8 @@ public class ClassForGit {
     private String yourName;
     private int myAge;
 
+    // 4- change this file
+
 
 
     public void setMyName(String myName) {
