@@ -9,6 +9,8 @@ public class ClassForGit {
 
     // 5 change for test
 
+    // change for remote git
+
 
 
     public void setMyName(String myName) {
