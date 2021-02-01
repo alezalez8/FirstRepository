@@ -5,7 +5,9 @@ public class ClassForGit {
     private String yourName;
     private int myAge;
 
-    // 4- change this file
+
+
+    // 5 change for test
 
 
 
@@ -20,8 +22,6 @@ public class ClassForGit {
     public void setYourName(String yourName) {
         this.yourName = yourName;
     }
-
-
 
 
     public ClassForGit(String myName, String yourName, int myAge) {
