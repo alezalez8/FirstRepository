@@ -11,6 +11,8 @@ public class ClassForGit {
 
     // change for remote git
 
+    // add new branch 'add-feature1'
+
 
 
     public void setMyName(String myName) {
