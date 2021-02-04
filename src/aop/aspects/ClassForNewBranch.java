@@ -14,6 +14,7 @@ public class ClassForNewBranch {
         System.out.println(a + b);
 
         System.out.println("This is change in git");
+        System.out.println("22222");
 
 
     }
